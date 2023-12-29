@@ -3,16 +3,20 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutorial - Basics",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Part I: Foundations of Learning": {
+    "message": "Part I: Foundations of Learning",
+    "description": "The label for category Part I: Foundations of Learning in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Part I: Foundations of Learning.link.generated-index.description": {
+    "message": "15 minutes to understand the Foundations of Learning",
+    "description": "The generated-index page description for category Part I: Foundations of Learning in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Part II: Effective Learning Strategies and Techniques": {
+    "message": "Part II: Effective Learning Strategies and Techniques",
+    "description": "The label for category Part II: Effective Learning Strategies and Techniques in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Part II: Effective Learning Strategies and Techniques.link.generated-index.description": {
+    "message": "20 minutes to learn the most effective learning strategies and techniques",
+    "description": "The generated-index page description for category Part II: Effective Learning Strategies and Techniques in sidebar tutorialSidebar"
   }
 }

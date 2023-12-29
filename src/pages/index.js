@@ -130,7 +130,7 @@ function HeroSection() {
         <div className={styles.buttons}>
           <Link
             className={clsx("button button--primary button--lg")}
-            to="/software-engineering-interview-guide/"
+            to="/intro"
           >
             Start reading now&nbsp;&nbsp;→
           </Link>
@@ -299,7 +299,7 @@ function HowToUseSection() {
                 <>Identify your preferred learning mediums</>,
                 <>Understand your unique learning challenges</>,
               ]}
-              ctaLink="/resume/"
+              ctaLink="/intro"
             />
           </div>
           <div
@@ -314,7 +314,7 @@ function HowToUseSection() {
                 <>Prioritize your learning targets</>,
                 <>Break down goals into actionable steps</>,
               ]}
-              ctaLink="/coding-interview-prep/"
+              ctaLink="/intro"
             />
           </div>
           <div
@@ -328,7 +328,7 @@ function HowToUseSection() {
                 <>Apply techniques to real-world scenarios</>,
                 <>Use interactive exercises to reinforce learning</>,
               ]}
-              ctaLink="/understanding-compensation/"
+              ctaLink="/intro"
             />
           </div>
           <div
@@ -342,7 +342,7 @@ function HowToUseSection() {
                 <>Reflect on what techniques work best for you</>,
                 <>Celebrate your successes and learn from challenges</>,
               ]}
-              ctaLink="/choosing-between-companies"
+              ctaLink="/intro"
             />
           </div>
         </div>
@@ -400,45 +400,6 @@ function FeaturesSection() {
   );
 }
 
-function FAANGTechLeadsSection() {
-  return (
-    <div
-      className={clsx("padding-vert--lg")}
-      style={{ backgroundColor: "rgb(244, 63, 94)" }}
-    >
-      <div className="container">
-        <div className="row">
-          <div className="col col--8 col--offset-2">
-            <div className="margin-vert--lg text--center">
-              <div>
-                <h2 className={styles.sectionSponsorTitle}>
-                  <strong>
-                    Craft the perfect resume for FAANG with FAANG Tech Leads'
-                    high quality Software Engineer resume templates and samples.
-                  </strong>
-                </h2>
-                <div className="margin-vert--lg">
-                  <a
-                    className="button button--secondary button--lg"
-                    href="https://www.faangtechleads.com?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=${position}&aff=1e80c401fe7e2"
-                    rel="noopener"
-                    target="_blank"
-                    onClick={() => {
-                      window.gtag("event", "faangtechleads.homepage.click");
-                    }}
-                  >
-                    Improve your resume now &nbsp;&nbsp;→
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-}
-
 function PreFooterSection() {
   return (
     <div className={clsx("padding-vert--xl", styles.sectionAlt)}>
@@ -458,7 +419,7 @@ function PreFooterSection() {
             </p>
             <Link
               className={clsx("button button--primary button--lg")}
-              to="/software-engineering-interview-guide/"
+              to="/intro"
             >
               Start reading now&nbsp;&nbsp;→
             </Link>

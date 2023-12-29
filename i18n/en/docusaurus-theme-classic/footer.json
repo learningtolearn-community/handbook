@@ -13,15 +13,11 @@
   },
   "link.item.label.Handbook": {
     "message": "Handbook",
-    "description": "The label of footer link with label=Handbook linking to /docs/intro"
+    "description": "The label of footer link with label=Handbook linking to /intro"
   },
   "link.item.label.Github": {
     "message": "Github",
     "description": "The label of footer link with label=Github linking to https://github.com/learningtolearn-community"
-  },
-  "link.item.label.Discord": {
-    "message": "Discord",
-    "description": "The label of footer link with label=Discord linking to https://discordapp.com/invite/docusaurus"
   },
   "link.item.label.Blog": {
     "message": "Blog",
