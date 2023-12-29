@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearning_to_learn=self.webpackChunklearning_to_learn||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Learning vs Winning the System","permalink":"/blog/learning-vs-winning-the-system","unlisted":false}]}')}}]);

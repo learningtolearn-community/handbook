@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearning_to_learn=self.webpackChunklearning_to_learn||[]).push([[837],{2956:e=>{e.exports=JSON.parse('{"label":"principles","permalink":"/blog/tags/principles","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
