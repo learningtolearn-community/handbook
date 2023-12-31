@@ -138,6 +138,14 @@ function HeroSection() {
         <p className="margin-top--md" style={{ fontSize: 16, fontWeight: 600 }}>
           Or check out our <a href="/blog">Blog articles</a>
         </p>
+        <div className="margin-top--lg">
+          <iframe
+            src="https://ghbtns.com/github-btn.html?user=learningtolearn-community&repo=handbook&type=star&count=true&size=large"
+            width={170}
+            height={30}
+            title="GitHub Stars"
+          />
+        </div>
       </div>
     </header>
   );
