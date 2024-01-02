@@ -21,4 +21,8 @@ In the contemporary educational and professional landscape, the principle of "Le
 
 The principle of "**Learning vs Winning the System**" is more than just a concept; it's a guide for lifelong learning and sustainable success. By prioritizing genuine understanding over superficial achievement, we can cultivate a more knowledgeable, skillful, and fulfilled society. The choice between learning and winning the system is not just a decision of methodology but a reflection of our values and vision for the future.
 
+## References
+
+- [The lesson to unlearn: Do you learn to win, or win to learn?](https://paulgraham.com/lesson.html)
+
 #mindset #learning #growth
