@@ -24,13 +24,13 @@ This handbook is organized into **six parts**, each covering a different aspect 
 
 ## Part I: Foundations of Learning
 
-- **Chapter 1: The Science of Learning**
+- [**Chapter 1: The Science of Learning**](/foundations-of-learning/the-science-of-learning)
   - The Brain and Learning
   - Memory and Retention
-- **Chapter 2: Identifying Your Learning Style**
+- [**Chapter 2: Identifying Your Learning Style**](/foundations-of-learning/identifying-your-learning-style)
   - Overview of Learning Styles
   - Self-Assessment for Learning Styles
-- **Chapter 3: Principles, Lies, and Pillars of Learning**
+- [**Chapter 3: Principles, Lies, and Pillars of Learning**](/foundations-of-learning/principles-lies-and-pillars)
   - Principles of Learning
   - Common Myths about Learning
   - Pillars of Learning
