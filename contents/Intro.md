@@ -6,8 +6,6 @@ sidebar_position: 1
 
 # Mastering the Art of Learning
 
-![Learning to Learn](/img/mindmap.png)
-
 ## Introduction
 
 ### Welcome to the Learning Journey
@@ -21,6 +19,8 @@ The purpose of this handbook is to provide you with a **comprehensive guide to l
 ### How to Use This Handbook
 
 This handbook is organized into **six parts**, each covering a different aspect of learning. Each part is further divided into **chapters**, which contain **learning strategies and techniques** that you can apply to your own learning journey.
+
+![Learning to Learn](/img/mindmap.png)
 
 ## Part I: Foundations of Learning
 
