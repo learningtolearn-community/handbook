@@ -8,6 +8,8 @@ sidebar_position: 2
 
 Everyone has a unique approach to learning. By understanding your preferred learning style, you can tailor your study habits to be more effective and enjoyable. Here are the most widely recognized learning styles:
 
+![Learning styles representation](/img/learning-styles-representation.png)
+
 ### **Visual (Spatial)**
 
 You prefer using pictures, images, and spatial understanding. Visual learners benefit from diagrams, color-coding, video content, and maps.
