@@ -76,13 +76,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      announcementBar: {
-        id: "annoucement-1", // Increment on change,
-        backgroundColor: "#ee2a60",
-        textColor: "#fff",
-        content: `Unlook your learning power  <a href="#" target="_blank" rel="noopener">Download Learning to learn handbook<a>!`,
-        isCloseable: true,
-      },
+      // Announcement to download handbook PDF version
+      // announcementBar: {
+      //   id: "annoucement-1", // Increment on change,
+      //   backgroundColor: "#ee2a60",
+      //   textColor: "#fff",
+      //   content: `Unlook your learning power  <a href="#" target="_blank" rel="noopener">Download Learning to learn handbook<a>!`,
+      //   isCloseable: true,
+      // },
 
       // Replace with your project's social card
       image: "img/social-card.jpg",

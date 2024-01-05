@@ -8,9 +8,13 @@ Learning isn't just about concentrating hard; it's also about giving your brain 
 
 ![Focus vs Diffuse Mode Representation](/img/focus-vs-diffuse-mode-representation.png)
 
-**Focus Mode**: This is when your brain is directly concentrating on a task. It's a state of direct and intense concentration, often necessary for understanding complicated concepts, solving problems, or working through challenging material. In this mode, you're actively blocking out distractions and honing in on specific details.
+### **Focus Mode**
 
-**Diffuse Mode**: This is a more relaxed thinking state. It's not about direct concentration but rather a relaxed, open-ended pondering. This mode is crucial for creativity, innovation, and the 'aha!' moments when your brain connects disparate ideas. It often happens when you're not trying to focus, like during a walk, shower, or right before sleep.
+This is when your brain is directly concentrating on a task. It's a state of direct and intense concentration, often necessary for understanding complicated concepts, solving problems, or working through challenging material. In this mode, you're actively blocking out distractions and honing in on specific details.
+
+### **Diffuse Mode**
+
+This is a more relaxed thinking state. It's not about direct concentration but rather a relaxed, open-ended pondering. This mode is crucial for creativity, innovation, and the 'aha!' moments when your brain connects disparate ideas. It often happens when you're not trying to focus, like during a walk, shower, or right before sleep.
 
 ## Balancing Both Modes:
 
@@ -37,7 +41,7 @@ Meditation and Mindfulness: Practices like meditation can clear your mind of clu
 
 **Socialize and Discuss**: Sometimes, talking about different topics with friends or peers can lead to unexpected connections and insights.
 
-### References
+## References
 
 - ["A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)"](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley, Ph.D
 - ["Thinking, Fast and Slow"](https://www.goodreads.com/en/book/show/11468377) by Daniel Kahneman
@@ -45,3 +49,4 @@ Meditation and Mindfulness: Practices like meditation can clear your mind of clu
 - Research articles and papers on neuroplasticity, cognitive psychology, and education techniques.
 - [Cal newport books](https://calnewport.com/writing/#books)
 - [Barbara Oakley books](https://barbaraoakley.com/books/)
+- [You cannot do two cognitive things at once](https://delanceyplace.com/view-archives.php?p=3150)
