@@ -20,7 +20,7 @@ The purpose of this handbook is to provide you with a **comprehensive guide to l
 
 This handbook is organized into **six parts**, each covering a different aspect of learning. Each part is further divided into **chapters**, which contain **learning strategies and techniques** that you can apply to your own learning journey.
 
-![Learning to Learn](/img/mindmap.png)
+![Learning to Learn](/img/overview-mindmap-collapsed.png)
 
 ## Part I: Foundations of Learning
 
@@ -30,16 +30,17 @@ This handbook is organized into **six parts**, each covering a different aspect 
 - [**Chapter 2: Identifying Your Learning Style**](/foundations-of-learning/identifying-your-learning-style)
   - Overview of Learning Styles
   - Self-Assessment for Learning Styles
-- [**Chapter 3: Principles, Lies, and Pillars of Learning**](/foundations-of-learning/principles-lies-and-pillars)
+- [**Chapter 3: Principles and Lies of Learning**](/foundations-of-learning/principles-and-lies/)
   - Principles of Learning
   - Common Myths about Learning
-  - Pillars of Learning
 
 ## Part II: Effective Learning Strategies and Techniques
 
 - **Chapter 4: Study Techniques for Success**
+
   - Active Recall and Spaced Repetition
   - Note-Taking Methods
+
 - **Chapter 5: Critical Thinking and Creativity**
   - Enhancing Problem-Solving Skills
   - Fostering Creativity in Learning

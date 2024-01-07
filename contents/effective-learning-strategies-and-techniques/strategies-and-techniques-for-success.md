@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Study Techniques for Success
+# Strategies and Techniques for Success
 
-In this chapter, we explore various strategies and techniques designed to enhance your learning experience. Understanding how to apply these methods effectively can significantly boost your ability to comprehend, retain, and recall information.
+In this chapter, we will explore a variety of learning strategies and techniques that you can apply to your own learning journey. These strategies and techniques are designed to help you become a more effective learner and achieve your learning goals.
+
+![Learning to Learn](/img/learning-strategies-and-techniques.png)
 
 ## Strategies
 
@@ -15,6 +17,10 @@ In this chapter, we explore various strategies and techniques designed to enhanc
 - Feedback Loops
 - [Sleep and Learning](/effective-learning-strategies-and-techniques/sleep-and-learning/)
 - Create a learning roadmap
+- Trunk Based Learning
+- Skill staking
+- Metalearning
+- Experimentation
 
 ## Techniques
 
@@ -27,3 +33,4 @@ In this chapter, we explore various strategies and techniques designed to enhanc
 - Pareto Principle
 - Parkinson's Law
 - Feynman Technique
+- Retrieval

@@ -2,7 +2,9 @@
 sidebar_position: 3
 ---
 
-# The Principles, Lies, and Pillars of Learning
+# The Principles and Lies of Learning
+
+![Learning to Learn](/img/principles-and-lies.png)
 
 ## Principles
 
@@ -36,33 +38,29 @@ sidebar_position: 3
 - Advocates for a steady, incremental approach to skill acquisition and knowledge enhancement.
 - Emphasizes the value of consistency and persistence in learning.
 
-### Skill staking
+### Intuition
 
 :::note
-"The more skills you have, the more valuable you are. - Scott Adams”
+"Intuition is the ability to acquire knowledge without recourse to conscious reasoning." - Wikipedia
 :::
 
-- The principle of skill stacking is that combining multiple skills can lead to unique and valuable combinations.
-- Advocates for the development of a diverse skill set that can be applied to a variety of contexts.
-- Emphasizes the value of interdisciplinary learning and the ability to adapt to new situations.
+- Suggests that intuition can be a valuable tool for learning and decision-making.
+- Emphasizes the value of intuition as a complement to logic and reasoning.
+- Encourages learners to trust their intuition and use it as a guide for learning and decision-making.
+- Intuition is a powerful tool for learning and decision-making. It can help you make better decisions, solve problems more effectively, and learn new skills more quickly.
 
-### Metalearning
+### Fixed Mindset vs Growth Mindset
 
 :::note
-"Metalearning is the process of learning how to learn." - Scott Young
+"In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort. They’re wrong. In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment." - Carol Dweck
 :::
 
-- Metalearning is the process of learning how to learn.
-- Advocates for a proactive approach to learning, which involves setting specific goals, receiving feedback, and making adjustments.
-- Emphasizes the value of self-awareness and self-reflection in the learning process.
+- Emphasizes a growth mindset versus a fixed mindset, advocating the belief that abilities can be developed through dedication and hard work.
+- Encourages viewing challenges as opportunities for growth and learning, rather than obstacles.
+- Promotes the idea of 'trainability' in all aspects of life, urging individuals to adopt a proactive approach to learning and self-improvement.
+- Understand the "Locus of control" as a concept in psychology that refers to the extent to which individuals believe they can control events that affect them.
 
-### Focus
-
-:::note
-"Focus is the ability to concentrate on a task without being distracted." - Scott Young
-:::
-
-## Lies
+## Common Myths about Learning
 
 ### Follow your passion
 
@@ -91,38 +89,3 @@ In 1993 a study was published by Anders Ericsson, Ralf Krampe, and Clemens Tesch
 - Everyone has advantages and disadvantages, so it's important to consider your unique circumstances when setting goals.
 - Focus on the quality of your practice, not just the quantity.
 - Consider the value of deliberate practice but being an efficient learner, which involves setting specific goals, receiving feedback, and making adjustments.
-
-## Pillars
-
-### Fixed Mindset vs Growth Mindset
-
-:::note
-"In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort. They’re wrong. In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment." - Carol Dweck
-
-:::
-
-- Emphasizes a growth mindset versus a fixed mindset, advocating the belief that abilities can be developed through dedication and hard work.
-- Encourages viewing challenges as opportunities for growth and learning, rather than obstacles.
-- Promotes the idea of 'trainability' in all aspects of life, urging individuals to adopt a proactive approach to learning and self-improvement.
-- Understand the "Locus of control" as a concept in psychology that refers to the extent to which individuals believe they can control events that affect them.
-
-### Simplicity vs Complexity
-
-:::note
-"Everything should be made as simple as possible, but not simpler." - Albert Einstein
-:::
-
-- Emphasizes the value of simplicity in learning, advocating for clear, concise, and straightforward explanations.
-- Encourages the use of simple, easy-to-understand language and concepts.
-- Promotes the idea that simplicity is not the same as oversimplification, and that complex topics can be explained in simple terms.
-
-### Trunk Based Learning
-
-:::note
-"Trunk Based Learning is a learning strategy that focuses on the core concepts of a subject before diving into the details." - Scott Young
-:::
-
-- Advocates for a focus on the core concepts of a subject before diving into the details.
-- Emphasizes the value of a strong foundation of knowledge and skills, which can be built upon with more advanced concepts.
-- Encourages learners to prioritize the most important concepts and skills, rather than getting lost in the details.
-- We live in a world that knowledge is constantly changing and evolving. So it's important to have a strong foundation of knowledge rather than trying to learn everything.

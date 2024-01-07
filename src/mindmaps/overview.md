@@ -13,16 +13,42 @@ markmap:
   - Learning vs Winning the System
   - The obstacle is the way
   - Compound learning
-  - Skill staking
+  - Intuition
+  - Fixed Mindset vs Growth Mindset
 - Lies
   - Follow your passion
   - 10,000 hours rule
-- Pillars
 
 ## Part II: Effective Learning Strategies and Techniques
 
-- Study Techniques for Success
-- Critical Thinking and Creativity
+### Strategies
+
+- Focus vs Difusse Mode
+- Brain training
+- Active Recall and Spaced Repetition
+- Note-Taking Methods
+- Feedback Loops
+- Sleep and Learning
+- Create a learning roadmap
+- Trunk Based Learning
+- Skill staking
+- Metalearning
+- Experimentation
+
+### Techniques
+
+- Chunking
+- Pomodoro Technique
+- Deliberate Practice
+- Interleaving
+- System vs Goals
+- Stakes and Rewards
+- Pareto Principle
+- Parkinson's Law
+- Feynman Technique
+- Retrieval
+
+### Critical Thinking and Creativity
 
 ## Part III: Mindset and Motivation
 

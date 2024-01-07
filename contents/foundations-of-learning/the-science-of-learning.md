@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Learning isn't just about sitting in a classroom or reading a book or watching a video. It's a complex process that involves various areas of your brain, intricate neural pathways, and a dance between different types of memory. Understanding the underlying mechanisms can empower you to harness your learning potential.
 
+![The Science of Learning representation](/img/science-of-learning.png)
+
 ## The Brain and Learning
 
 ### Neuroplasticity
