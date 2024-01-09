@@ -70,6 +70,8 @@ sidebar_position: 3
 
 Following your passion is a lie that's been told to us by our parents, our teachers, our mentors, and our peers, the media, by our culture, and by our society. Don't get me wrong, everyone has a passion but in terms of being an effective learner, you could be really good at something that is not really your passion.
 
+There is term known as **"Overjustification"**, which related to **"follow your passion"** represents that, once you start following your passion and also you start getting paid for it, you start to lose your passion. So, it's important to consider that your passion can be developed and nurtured through competence and mastery, not just inherent interest.
+
 #### Recommendations
 
 - Challenge the conventional advice of blindly following your passion for career or learning decisions.
