@@ -4,6 +4,8 @@ The Pomodoro Technique is a time management method developed by [**Francesco Cir
 
 This technique is a complement to the [**Focus vs Diffuse Mode**](/effective-learning-strategies-and-techniques/focus-vs-diffuse-mode) technique, which emphasizes the importance of alternating between focused and relaxed thinking.
 
+![Pomodoro Technique Representation](/img/pomodoro-technique-representation.png)
+
 ## How It Works
 
 1. **Choose a Task**: Begin with selecting a task or a series of tasks you wish to accomplish.
@@ -31,7 +33,13 @@ This technique is a complement to the [**Focus vs Diffuse Mode**](/effective-lea
 
 Several apps and tools are available to help track Pomodoro sessions, such as TomatoTimer, Focus Booster, and Be Focused.
 
-## Conclusions
+- [Flowapp Mac only (Desktop)](https://flowapp.info/)
+- [TomatoTimer](https://tomato-timer.com/)
+- [Tomighty Desktop](https://tomighty.github.io/)
+- [Focus Timer - iOS Phone](https://apps.apple.com/us/app/be-focused-focus-timer/id973130201)
+- [Engrossapp Android Phone](https://engrossapp.com/)
+
+## Conclusion
 
 By using the **Pomodoro Technique**, learners can harness the power of focused study sessions alternated with short breaks, enhancing both their efficiency and the quality of their learning experience. This method is particularly effective in managing large tasks, maintaining consistent productivity, and mitigating the effects of burnout.
 

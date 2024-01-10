@@ -24,7 +24,7 @@ In this chapter, we will explore a variety of learning strategies and techniques
 
 ## Techniques
 
-- Chunking
+- [Chunking](/effective-learning-strategies-and-techniques/chunking/)
 - [Pomodoro Technique](/effective-learning-strategies-and-techniques/pomodoro-technique/)
 - Deliberate Practice
 - Interleaving
