@@ -31,3 +31,4 @@ Interleaving is a powerful approach to learning that challenges the traditional 
 - "Make It Stick: The Science of Successful Learning" by Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel
 - Research papers on cognitive science and education exploring the benefits of interleaving
 - Studies on the application of interleaving in various fields such as mathematics, language learning, and skill acquisition
+- [The interleaving effect](https://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning/)

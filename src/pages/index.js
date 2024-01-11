@@ -184,7 +184,17 @@ function WhatIsThisSection() {
               Whether you're a{" "}
               <strong>student, professional, or a curious mind</strong>,
               mastering the art of learning to learn is about opening doors to
-              endless possibilities.
+              endless possibilities. <br />
+              <br />
+              This content is inspired in many{" "}
+              <strong>books about learning</strong> and{" "}
+              <a
+                href="https://academy.zerotomastery.io/a/aff_2yxq6tkm/external?affcode=441520_49y0uhps"
+                target="_blank"
+              >
+                Learning to Learn (Efficient Learning) from Zero to Mastery
+              </a>{" "}
+              course.
             </p>
           </div>
         </div>

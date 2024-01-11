@@ -16,11 +16,12 @@ In this chapter, we will explore a variety of learning strategies and techniques
 - Note-Taking Methods
 - Feedback Loops
 - [Sleep and Learning](/effective-learning-strategies-and-techniques/sleep-and-learning/)
-- Create a learning roadmap
+- [Create a roadmap](/effective-learning-strategies-and-techniques/create-a-roadmap/)
 - Trunk Based Learning
 - Skill staking
 - Metalearning
 - Experimentation
+- [Being part of a Community](/effective-learning-strategies-and-techniques/being-part-of-a-community/)
 
 ## Techniques
 
