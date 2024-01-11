@@ -1,6 +1,6 @@
 # Chunking
 
-Chunking is a cognitive strategy for making more efficient use of short-term memory by grouping information into larger, more manageable units, or "chunks." This technique is especially useful for processing and memorizing large amounts of complex information.
+Chunking is a **cognitive** strategy for making more efficient use of short-term memory by **grouping information** into larger, more manageable units, or "chunks." This technique is especially useful for processing and memorizing large amounts of complex information.
 
 ![Chunking Representation](/img/chunking-representation.png)
 

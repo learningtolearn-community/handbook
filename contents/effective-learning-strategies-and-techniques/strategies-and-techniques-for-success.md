@@ -12,7 +12,7 @@ In this chapter, we will explore a variety of learning strategies and techniques
 
 - [Focus vs Difusse Mode](/effective-learning-strategies-and-techniques/focus-vs-diffuse-mode/)
 - [Brain training](/effective-learning-strategies-and-techniques/brain-training/)
-- Active Recall and Spaced Repetition
+- [Active Recall and Spaced Repetition](/effective-learning-strategies-and-techniques/active-recall-spaced-repetition/)
 - Note-Taking Methods
 - Feedback Loops
 - [Sleep and Learning](/effective-learning-strategies-and-techniques/sleep-and-learning/)
@@ -26,8 +26,8 @@ In this chapter, we will explore a variety of learning strategies and techniques
 
 - [Chunking](/effective-learning-strategies-and-techniques/chunking/)
 - [Pomodoro Technique](/effective-learning-strategies-and-techniques/pomodoro-technique/)
-- Deliberate Practice
-- Interleaving
+- [Deliberate Practice](/effective-learning-strategies-and-techniques/deliberate-practice/)
+- [Interleaving](/effective-learning-strategies-and-techniques/interleaving/)
 - System vs Goals
 - Stakes and Rewards
 - Pareto Principle
