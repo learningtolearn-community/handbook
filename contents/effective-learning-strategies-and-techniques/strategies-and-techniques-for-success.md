@@ -29,9 +29,10 @@ In this chapter, we will explore a variety of learning strategies and techniques
 - [Pomodoro Technique](/effective-learning-strategies-and-techniques/pomodoro-technique/)
 - [Deliberate Practice](/effective-learning-strategies-and-techniques/deliberate-practice/)
 - [Interleaving](/effective-learning-strategies-and-techniques/interleaving/)
-- System vs Goals
+- [System vs Goals](/effective-learning-strategies-and-techniques/system-vs-goals/)
 - Stakes and Rewards
-- Pareto Principle
+- [Pareto Principle](/effective-learning-strategies-and-techniques/pareto-principle/)
 - Parkinson's Law
 - Feynman Technique
 - Retrieval
+- Do not brek the chain
