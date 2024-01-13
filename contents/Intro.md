@@ -36,21 +36,41 @@ This handbook is organized into **six parts**, each covering a different aspect 
 
 ## Part II: Effective Learning Strategies and Techniques
 
-- **Chapter 4: Study Techniques for Success**
+- [**Chapter 4: Study Strategies and Techniques for Success**](/effective-learning-strategies-and-techniques/strategies-and-techniques-for-success/)
 
-  - Active Recall and Spaced Repetition
-  - Note-Taking Methods
+  - [Focus vs Difusse Mode](/effective-learning-strategies-and-techniques/focus-vs-diffuse-mode/)
+  - [Brain training](/effective-learning-strategies-and-techniques/brain-training/)
+  - [Active Recall and Spaced Repetition](/effective-learning-strategies-and-techniques/active-recall-spaced-repetition/)
+  - [Note-Taking Methods](/effective-learning-strategies-and-techniques/note-taking-methods/)
+  - [Feedback Loops](/effective-learning-strategies-and-techniques/feedback-loops/)
+  - [Sleep and Learning](/effective-learning-strategies-and-techniques/sleep-and-learning/)
+  - [Create a roadmap](/effective-learning-strategies-and-techniques/create-a-roadmap/)
+  - [Trunk Based Learning](/effective-learning-strategies-and-techniques/trunk-based-learning/)
+  - [Skill staking](/effective-learning-strategies-and-techniques/skill-staking/)
+  - [Metalearning](/effective-learning-strategies-and-techniques/metalearning/)
+  - [Being part of a Community](/effective-learning-strategies-and-techniques/being-part-of-a-community/)
+  - [Concepts vs Facts](/effective-learning-strategies-and-techniques/concepts-vs-facts/)
+  - [Stakes and Rewards](/effective-learning-strategies-and-techniques/stakes-and-rewards/)
+  - [Chunking](/effective-learning-strategies-and-techniques/chunking/)
+  - [Pomodoro Technique](/effective-learning-strategies-and-techniques/pomodoro-technique/)
+  - [Deliberate Practice](/effective-learning-strategies-and-techniques/deliberate-practice/)
+  - [Interleaving](/effective-learning-strategies-and-techniques/interleaving/)
+  - [System vs Goals](/effective-learning-strategies-and-techniques/system-vs-goals/)
+  - [Pareto Principle](/effective-learning-strategies-and-techniques/pareto-principle/)
+  - [Feynman Technique](/effective-learning-strategies-and-techniques/feynman-technique/)
+  - [Retrieval Practice](/effective-learning-strategies-and-techniques/retrieval-practice/)
+  - [Do not Break the Chain](/effective-learning-strategies-and-techniques/do-not-break-the-chain/)
 
-- **Chapter 5: Critical Thinking and Creativity**
+- [**Chapter 5: Critical Thinking and Creativity**](/effective-learning-strategies-and-techniques/critical-thinking-and-creativity)
   - Enhancing Problem-Solving Skills
   - Fostering Creativity in Learning
 
 ## Part III: Mindset and Motivation
 
-- **Chapter 6: Cultivating a Growth Mindset**
+- [**Chapter 6: Cultivating a Growth Mindset**](/mindset-and-motivation/cultivating-a-growth-mindset)
   - Overcoming Learning Obstacles
   - The Power of Yet
-- **Chapter 7: Goal Setting and Motivation**
+- [**Chapter 7: Goal Setting and Motivation**](/mindset-and-motivation/goal-setting-and-motivation)
   - Setting SMART Learning Goals
   - Staying Motivated on Your Learning Journey
 

@@ -13,15 +13,16 @@ In this chapter, we will explore a variety of learning strategies and techniques
 - [Focus vs Difusse Mode](/effective-learning-strategies-and-techniques/focus-vs-diffuse-mode/)
 - [Brain training](/effective-learning-strategies-and-techniques/brain-training/)
 - [Active Recall and Spaced Repetition](/effective-learning-strategies-and-techniques/active-recall-spaced-repetition/)
-- Note-Taking Methods
-- Feedback Loops
+- [Note-Taking Methods](/effective-learning-strategies-and-techniques/note-taking-methods/)
+- [Feedback Loops](/effective-learning-strategies-and-techniques/feedback-loops/)
 - [Sleep and Learning](/effective-learning-strategies-and-techniques/sleep-and-learning/)
 - [Create a roadmap](/effective-learning-strategies-and-techniques/create-a-roadmap/)
-- Trunk Based Learning
-- Skill staking
-- Metalearning
-- Experimentation
+- [Trunk Based Learning](/effective-learning-strategies-and-techniques/trunk-based-learning/)
+- [Skill staking](/effective-learning-strategies-and-techniques/skill-staking/)
+- [Metalearning](/effective-learning-strategies-and-techniques/metalearning/)
 - [Being part of a Community](/effective-learning-strategies-and-techniques/being-part-of-a-community/)
+- [Concepts vs Facts](/effective-learning-strategies-and-techniques/concepts-vs-facts/)
+- [Stakes and Rewards](/effective-learning-strategies-and-techniques/stakes-and-rewards/)
 
 ## Techniques
 
@@ -30,9 +31,7 @@ In this chapter, we will explore a variety of learning strategies and techniques
 - [Deliberate Practice](/effective-learning-strategies-and-techniques/deliberate-practice/)
 - [Interleaving](/effective-learning-strategies-and-techniques/interleaving/)
 - [System vs Goals](/effective-learning-strategies-and-techniques/system-vs-goals/)
-- Stakes and Rewards
 - [Pareto Principle](/effective-learning-strategies-and-techniques/pareto-principle/)
-- Parkinson's Law
-- Feynman Technique
-- Retrieval
-- Do not brek the chain
+- [Feynman Technique](/effective-learning-strategies-and-techniques/feynman-technique/)
+- [Retrieval Practice](/effective-learning-strategies-and-techniques/retrieval-practice/)
+- [Do not Break the Chain](/effective-learning-strategies-and-techniques/do-not-break-the-chain/)

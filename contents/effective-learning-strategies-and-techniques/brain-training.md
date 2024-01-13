@@ -8,11 +8,11 @@ Brain training involves engaging in activities designed to improve cognitive fun
 
 ![Brain Training Representation](/img/brain-training-representation.jpeg)
 
-### **Cognitive Flexibility**:
+### **Cognitive Flexibility**
 
 Engaging in varied mental exercises can enhance your cognitive flexibility, the ability to switch between thinking about two different concepts or to think about multiple concepts simultaneously. This is crucial for problem-solving and understanding complex ideas.
 
-### **Neuroplasticity**:
+### **Neuroplasticity**
 
 The brain's ability to reorganize itself by forming new neural connections is called **neuroplasticity**. Regular, targeted brain training activities can harness this property to enhance cognitive capabilities.
 
