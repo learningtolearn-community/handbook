@@ -197,6 +197,7 @@ function WhatIsThisSection() {
               course.
             </p>
           </div>
+          <img src="/img/full-overview.png" alt="full overview" />
         </div>
       </div>
     </div>
