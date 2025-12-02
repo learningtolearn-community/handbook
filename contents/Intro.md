@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+id: intro
 ---
 
 ![Learning to Learn](/img/social-card.png)
