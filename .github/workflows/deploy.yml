@@ -36,8 +36,8 @@ jobs:
         env:
           NODE_ENV: production
 
-      - name: Add CNAME file
-        run: echo "www.learningtolearn.io" > build/CNAME
+      # - name: Add CNAME file
+      # run: echo "www.learningtolearn.io" > build/CNAME
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
